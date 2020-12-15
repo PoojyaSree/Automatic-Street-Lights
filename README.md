@@ -7,9 +7,9 @@
 
 MATERIALS USED
 ->PHYSICAL COMPONENTS:
-  Thermocol sheets
-  Black chart
-  White paper
+  Thermocol sheets,
+  Black chart,
+  White paper.
 ->ELECTRICAL COMPONENTS:
   Arduino board ,IR sensors ,breadboard ,LEDs, jumper wires.
  
