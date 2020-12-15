@@ -1,9 +1,9 @@
 # Automatic-Street-Lights
 ->The main purpose of the project is to switch ON and OFF street lights without manual operation.
-->IR sensors take a major part in this project.
-->IR sensor is like our eye which detect the presence of an object.
-->In the present days automated systems have less manual operations ,high flexibility and accurate.
-->Our project is to control the switching of street lights automatically.
+IR sensors take a major part in this project.
+IR sensor is like our eye which detect the presence of an object.
+In the present days automated systems have less manual operations ,high flexibility and accurate.
+Our project is to control the switching of street lights automatically.
 
 MATERIALS USED
 ->PHYSICAL COMPONENTS:
