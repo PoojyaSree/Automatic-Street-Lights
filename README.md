@@ -20,6 +20,6 @@ MATERIALS USED
  Result-
  The street light corresponding to that IR will switch ON automatically when a vehicle passes.
 <div class="row">
-  <img src="https://github.com/PoojyaSree/Automatic-Street-Lights/blob/main/project%20pic%201.jpg" width="260" height="300">&nbsp;&nbsp;
+  <img src="https://github.com/PoojyaSree/Automatic-Street-Lights/blob/main/project%20pic%201.jpg" width="360" height="300">&nbsp;&nbsp;
    <img src="https://github.com/PoojyaSree/Automatic-Street-Lights/blob/main/project%20pic%202.jpg" width="400" height="300">
   </div>
